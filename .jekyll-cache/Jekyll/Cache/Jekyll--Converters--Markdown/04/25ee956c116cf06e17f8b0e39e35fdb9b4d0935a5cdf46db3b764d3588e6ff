@@ -1,0 +1,16 @@
+I"ü<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/article/hylas-at-scs/" title="Hylas at the SCS" class="post-teaser"><img src="http://localhost:4000/images/2020-11-30-hylas-teaser.png" alt="teaser" itemprop="image" />
+    </a>
+  <p class="entry-date date published"><time datetime="2020-11-30" itemprop="datePublished">November 30, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/article/hylas-at-scs/">Hylas at the SCS</a></h2>
+  <p class="post-excerpt" itemprop="description">Some notes to accompany my online presentation at the Society for Classical Studies
+convention, January 2020.
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET
